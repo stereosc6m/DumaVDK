@@ -22,9 +22,7 @@ requests-cache, beautifulsoup4, tqdm, lxml
 ```pip install -r requirements.txt```
 
 3. Запуск программы
-```bash```
 ```python DumaVDK.py```
 
 Быстрый старт (одной командой)
-```bash```
 ```python -m venv venv && source venv/bin/activate && pip install -r requirements.txt && python DumaVDK.py```
