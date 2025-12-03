@@ -9,10 +9,11 @@ requests-cache, beautifulsoup4, tqdm, lxml
 Установка и запуск
 
 # Создать venv
+Находясь в папке с исполянемым файлом
 ```python -m venv venv```
 
 # Активировать (Windows)
-```venv\Scripts\activate```
+```source venv\Scripts\activate```
 
 # Активировать (Linux/Mac)
 ```source venv/bin/activate```
