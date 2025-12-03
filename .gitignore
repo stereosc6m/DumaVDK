@@ -1,0 +1,4 @@
+venv/
+.venv
+http_cache.sqlite
+dumavlad_news.csv
