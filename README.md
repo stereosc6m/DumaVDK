@@ -12,7 +12,7 @@ requests-cache, beautifulsoup4, tqdm, lxml
 python -m venv venv
 
 # Активировать (Windows)
-venv\Scripts\activate
+```venv\Scripts\activate```
 
 # Активировать (Linux/Mac)
 source venv/bin/activate
